@@ -1,5 +1,5 @@
 # Blended-Small-Flat
-Metacity Theme
+This is a hack of Blended Small. The main difference is that the title bar has been flattened.
 
 # Screenshot
 ![](http://gnome-look.org/CONTENT/content-pre1/117579-1.png)
