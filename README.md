@@ -3,6 +3,7 @@ This is a hack of Blended Small. The main difference is that the title bar has b
 
 # Screenshot
 ![](http://gnome-look.org/CONTENT/content-pre1/117579-1.png)
+
 # Changelog:
 1.0: initial release
 
